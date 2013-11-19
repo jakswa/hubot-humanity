@@ -1,0 +1,38 @@
+{
+  "name": "hubot-humanity",
+  "description": "Hubot against humanity - a must-have hubot script for those humans coping with humanity.",
+  "version": "0.1.0",
+  "author": "Jake Swanson <jakswa@gmail.com>",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jakswa/hubot-humanity.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/jakswa/hubot-humanity/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  },
+
+  "main": "index.coffee",
+
+  "scripts": {
+    "test": "script/test"
+  }
+}
