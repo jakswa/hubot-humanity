@@ -6,7 +6,7 @@ CAH implemented in hubot form. I take no credit for this implementation. I am me
 
 ## Usage
 
-Someone types `hubot q card`, and then everyone does `card me` (or card me 2, if it's a take-two).
+Someone types `hubot q card`, and then everyone does `hubot card me` (or `hubot card me 2`, if it's a take-two).
 
 ## Installation
 
