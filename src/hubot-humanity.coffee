@@ -112,7 +112,7 @@ questions = [
   "Studies show that lab rats navigate mazes 50% faster after being exposed to _____",
   "TSA guidelines now prohibit _____ on airplanes.",
   "The CIA now interrogates enemy agents by repeatedly subjecting them to _____.",
-  "The Five Stages of Grief: denial, anger, bargaining, _____ acceptance.",
+  "The Five Stages of Grief: denial, anger, bargaining, _____, acceptance.",
   "The blind date was going horribly until we discovered our shared interest in _____.",
   "The class field trip was completely ruined by _____.",
   "The healing process began when I joined a support group for victims of _____.",
