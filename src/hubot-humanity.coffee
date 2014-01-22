@@ -146,7 +146,7 @@ questions = [
   "What keeps me warm during the cold, cold winter?",
   "What left this stain on my couch?",
   "What never fails to liven up the party?",
-  "What people like _____.",
+  "White people like _____.",
   "What will I bring back in time to convince people that I am a powerful wizard?",
   "What will always get you laid?",
   "What would grandma find disturbing, yet oddly charming?",
