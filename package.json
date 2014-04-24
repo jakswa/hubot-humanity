@@ -1,7 +1,7 @@
 {
   "name": "hubot-humanity",
   "description": "Hubot against humanity - a must-have hubot script for those humans coping with humanity.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "Jake Swanson <jakswa@gmail.com>",
   "license": "MIT",
   "keywords": [
