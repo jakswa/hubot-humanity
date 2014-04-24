@@ -13,9 +13,16 @@ describe 'hello-world', ->
     require('../src/hubot-humanity')(@robot)
 
   it 'registers a respond listener for "card me"', ->
-    expect(@robot.respond).to.have.been.calledWith(/card me/)
+    expect(@robot.respond).to.have.been.calledWithMatch sinon.match( (val) ->
+      val.test 'card me'
+    )
   it 'registers a respond listener for "card me 2"', ->
-    expect(@robot.respond).to.have.been.calledWith(/card me 2/)
+    expect(@robot.respond).to.have.been.calledWithMatch sinon.match( (val) ->
+      val.test 'card me 2'
+    )
 
   it 'registers a respond listener for "q card"', ->
-    expect(@robot.respond).to.have.been.calledWith(/q card/)
+    expect(@robot.respond).to.have.been.calledWithMatch sinon.match( (val) ->
+      val.test 'q card'
+    )
+
