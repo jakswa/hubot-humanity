@@ -676,7 +676,7 @@ answers = [
   "Racism.",
   "Raping and pillaging.",
   "Re-gifting.",
-  "Repression,.",
+  "Repression.",
   "Republicans.",
   "Revenge fucking.",
   "Reverse cowgirl.",
