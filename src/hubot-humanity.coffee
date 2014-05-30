@@ -174,7 +174,7 @@ questions = [
   "Why am I sticky?",
   "Why can't I sleep at night?",
   "Why do I hurt all over?",
-  "_____ kid tested mother approved.",
+  "_____. kid tested mother approved.",
   "_____. Awesome in theory, kind of a mess in practice.",
   "_____. Betcha can't have just one.",
   "_____. High five bro.",
